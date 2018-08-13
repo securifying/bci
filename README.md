@@ -174,12 +174,15 @@ It is expected that we will see a good click-through rate for â€œenglish classâ€
 ----------
 # Other resources:
 1. [This](https://www.semrush.com/info/britishcoachinginstitute.com) website provides those keywords for which the BCI site (currently) shows up on Google for, they have been identified as: 
-| **Keyword**                             | **Position** | **Volume** |
-| --------------------------------------- | ------------ | ---------- |
-| german institute in pune                | 82           | 40         |
-| english coaching classes in pune        | 75           | 10         |
-| french institute in pune                | 94           | 10         |
-| personality development courses in pune | 95           | 30         |
+
+
+| Keyword                                 | Position | Volume |
+|-----------------------------------------|----------|--------|
+| german institute in pune                | 82       | 40     |
+| english coaching classes in pune        | 75       | 10     |
+| french institute in pune                | 94       | 10     |
+| personality development courses in pune | 95       | 30     |
+
 
 This tells us that the site is currently most popular for these keywords..
 
