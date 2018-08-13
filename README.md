@@ -16,7 +16,7 @@ Keyword Research: An essential step in SEO and advertising that helps you unders
 Trend Analysis: An aspect of keyword research that involves analysing search trends.
 CPC: Cost Per Click, the amount you have to pay to the advertisement platform (Google) whenever the Ad is clicked.
 Competition: If two entities both give money to advertise the same keywords, then an automated *bidding* is done, and the amount of clicks you get (your reach) is proportional to your budget, this is called as competition.
-CTR: Click Through Rate, measures the number of *clicks* ******advertisers receive on their ads per number of impressions.
+CTR: Click Through Rate, measures the number of *clicks* advertisers receive on their ads per number of impressions.
 
 
 ## The basics: 
