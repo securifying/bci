@@ -189,11 +189,11 @@ This tells us that the site is currently most popular for these keywords..
 
 2. <https://searchengineland.com/metrics-secret-keyword-research-success-244915>
 3. <https://keywordtool.io/google>
-4. https://ahrefs.com/blog/free-keyword-research-tools/
-5. https://www.crazyegg.com/blog/free-keyword-research-tools/
-6. https://neilpatel.com/blog/10-free-keyword-research-tools-to-help-plan-your-new-site/
-7. https://neilpatel.com/ubersuggest/
-8. https://www.wordstream.com/keywords
+4. <https://ahrefs.com/blog/free-keyword-research-tools/>
+5. <https://www.crazyegg.com/blog/free-keyword-research-tools/>
+6. <https://neilpatel.com/blog/10-free-keyword-research-tools-to-help-plan-your-new-site/>
+7. <https://neilpatel.com/ubersuggest/>
+8. <https://www.wordstream.com/keywords>
   
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_8F14C615B86F1EB04FE18996AC2288B0899ECC33534905CC5D7D28E5BB9464DB_1534172911538_image.png)
 
