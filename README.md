@@ -187,8 +187,8 @@ It is expected that we will see a good click-through rate for â€œenglish classâ€
 This tells us that the site is currently most popular for these keywords..
 
 
-2. https://searchengineland.com/metrics-secret-keyword-research-success-244915
-3. https://keywordtool.io/google
+2. <https://searchengineland.com/metrics-secret-keyword-research-success-244915>
+3. <https://keywordtool.io/google>
 4. https://ahrefs.com/blog/free-keyword-research-tools/
 5. https://www.crazyegg.com/blog/free-keyword-research-tools/
 6. https://neilpatel.com/blog/10-free-keyword-research-tools-to-help-plan-your-new-site/
